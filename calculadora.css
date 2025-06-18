@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    text-align: center;
+}
+
+body h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+body p {
+    padding: 5px;
+    margin: 10px;   
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: 5px;  
+    font-weight: bold;  
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+#classificacao {
+    display: inline;
+}
